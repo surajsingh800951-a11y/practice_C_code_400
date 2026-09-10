@@ -1,8 +1,4 @@
-# C Language – Complete Guide (Turbo C Style)
-### Beginner se Advanced tak, har topic ke 3-4 examples ke saath
-
-> **Note:** Sabhi programs Turbo C / Turbo C++ compiler ke hisaab se likhe gaye hain (`void main()`, `getch()`, `clrscr()`). Agar aap GCC ya modern compiler use kar rahe ho, to `void main()` ko `int main()` aur end me `return 0;` karna padega, aur `<conio.h>` header (getch/clrscr) available nahi hoga.
-
+# C Language – Complete Turbo C 
 ---
 
 ## PHASE 1: BASICS
